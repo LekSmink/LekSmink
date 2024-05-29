@@ -1,0 +1,4 @@
+game.Players.LocalPlayer:Kick("Script não suporta esse jogo, por favor execute no jogo específico")
+end
+-- você pode adicionar esse código em alguma coisa tipo quando o jogador executar seu script hud no jogo errado ele 
+automaticamente será kikado junto com uma mensagem
