@@ -1,0 +1,13 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "", -- título
+	Text = "Carregando...",
+	Icon = "" -- link de algum ícone(se preferir deixe vazio)
+})
+wait(3) -- espere o tempo pra reduzir o lag 
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "", -- recomendado adicionar o nome do script
+	Text = "Carregamento completo",
+	Icon = "" -- coloque algum link pra aparecer na notificação
+})
+
+rbxassetid://15541504459 -- Você pode adicionar o icone N
