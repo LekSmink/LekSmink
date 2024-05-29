@@ -1,0 +1,6 @@
+if game.PlaceId == (Id do jogo) then -- coloque o id do jogo
+game.Players.LocalPlayer:Kick("Script não suporta esse jogo")
+end
+-- você pode adicionar esse código a alguma coisa no código tipo
+quando o jogador executar seu código no jogo fora do if game ele
+automaticamente sera kikado
