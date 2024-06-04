@@ -1,0 +1,4 @@
+setclipboard("oi") -- você pode colocar
+qualquer coisa que automaticamente sera
+copiada uma mensagem no usuário que clicar no
+botão até mesmo links
